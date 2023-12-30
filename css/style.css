@@ -1,0 +1,41 @@
+*{
+	padding:0;
+	margin:0;
+}
+ul{
+	type:none;
+	font-family:Federo
+}
+button{
+	background-color:#ed583e;
+	padding:12px;	
+	border:none;
+	font-family: 'Stylish', serif;
+}
+i{
+	padding:10px;
+}
+p,ul{
+	color:grey;
+	padding:5px;
+}
+div{
+	padding:20px;
+}
+.parent{
+	border:2px solid black;
+	width:40%;
+	padding:25px;
+	margin:auto;	
+}
+p{
+	font-family:kurale;
+}
+h1{
+	font-family:Rammetto One;
+	font-size:25px;
+}
+button :hover{
+	box-shadow:0 0 20px #000;
+}
+
